@@ -1,0 +1,8 @@
+{
+  "name": "team-agent-workflow",
+  "version": "1.0.0",
+  "description": "5-agent team workflow with Decision Recorder, Reviewer audit, mem0 memory, Context7 docs, and 4 enforcement hooks. Solves context explosion, cross-session knowledge loss, and subagent slacking.",
+  "platforms": ["claude"],
+  "author": "Jayden park",
+  "license": "MIT"
+}
