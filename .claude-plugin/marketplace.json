@@ -1,0 +1,23 @@
+{
+  "name": "jayden-workflow",
+  "description": "Team Agent Workflow marketplace — 5-agent team with enforcement hooks, decision memory, and research routing",
+  "owner": {
+    "name": "Jayden park",
+    "email": "elaineamina@hotmail.com"
+  },
+  "plugins": [
+    {
+      "name": "team-agent-workflow",
+      "source": "./",
+      "description": "5-agent team workflow with Decision Recorder, Reviewer audit, mem0 memory, Context7 docs, and 4 enforcement hooks.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jayden park"
+      },
+      "license": "MIT",
+      "category": "workflow",
+      "tags": ["multi-agent", "workflow", "team", "mem0", "context7", "karpathy"],
+      "keywords": ["workflow", "multi-agent", "team", "decision-recorder", "reviewer"]
+    }
+  ]
+}
